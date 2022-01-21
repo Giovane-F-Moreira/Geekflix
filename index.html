@@ -2,9 +2,14 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style/main.css">
+    <link rel="stylesheet" href="style/responsive.css">
+
+    <!-- OWL CSS-->
+    <link rel="stylesheet" href="style/own/owl.carousel.min.css">
+    <link rel="stylesheet" href="style/own/owl.theme.default.min.css">
+
     <title>MARVELFLIX</title>
 </head>
 <body>
@@ -30,14 +35,34 @@
                     e comida, Steve Rogers e Natasha Romanov lideram a 
                     resistência contra o titã louco.
                 </p>
-                <button role="button" class="botao">
-                    ASSISTIR AGORA
-                </button>
-                <button role="button" class="botao">
-                    MAIS INFORMAÇÕES
-                </button>
+                <div class="botoes">
+                    <button role="button" class="botao">
+                        <i class="fas fa-play"></i>
+                        ASSISTIR AGORA
+                    </button>
+                    <button role="button" class="botao">
+                        <i class="fas fa-info-circle"></i>
+                        MAIS INFORMAÇÕES
+                    </button>
+                </div>
             </div>
         </div>
     </main>
+
+    <div class="carrosel-filmes">
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+                <img class="box-filme" src="https://www.themoviedb.org/t/p/w220_and_h330_face/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg" alt="" srcset="">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="https://www.themoviedb.org/t/p/w220_and_h330_face/ArrOBeio968bUuUOtEpKa1teIh4.jpg" alt="" srcset="">
+            </div>
+        </div>  
+    </div>
+
+    <script src="https://kit.fontawesome.com/ffeec7b908.js" crossorigin="anonymous"></script>
+    <script src="js/own/jquery.min.js"></script>
+    <script src="js/own/owl.carousel.min.js"></script>
+    <script src="js/own/setup.js"></script>
 </body>
 </html>

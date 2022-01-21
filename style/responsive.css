@@ -7,6 +7,11 @@
   .botao {
     margin-top: 5px;
     width: 300px;
+    margin-bottom: 5px;
+  }
+
+  .filme-principal {
+      height: auto;
   }
 }
 

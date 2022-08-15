@@ -2,11 +2,16 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Giovane-F-Moreira/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/Giovane-F-Moreira/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Giovane-F-Moreira/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Giovane-F-Moreira/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Giovane-F-Moreira/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Giovane-F-Moreira/Geekflix)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/Giovane-F-Moreira/Geekflix)
+![Lines of code](https://tokei.rs/b1/github/Giovane-F-Moreira/Geekflix)
+![GitHub language count](https://img.shields.io/github/languages/count/Giovane-F-Moreira/Geekflix)
+![GitHub top language](https://img.shields.io/github/languages/top/Giovane-F-Moreira/Geekflix)
+![GitHub last commit](https://img.shields.io/github/last-commit/Giovane-F-Moreira/Geekflix)
+![GitHub forks](https://img.shields.io/github/forks/Giovane-F-Moreira/Geekflix)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Giovane-F-Moreira/Geekflix)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Giovane-F-Moreira/Geekflix)
+![GitHub followers](https://img.shields.io/github/followers/Giovane-F-Moreira?label=Follow)
 
 <img src="geekflix.png" alt="exemplo imagem">
 
@@ -84,7 +89,15 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
         <sub>
           <b>Giovane Fernandes</b>
         </sub>
+        </hr>
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <sub>
+        <b>Criador do Projeto</b>
+      </sub>
     </td>
   </tr>
 </table>
